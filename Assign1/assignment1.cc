@@ -2,9 +2,7 @@
 CSCI 340 - Assignment 1 - Spring 2019
 
 Progammer: Kenneth Harris
-Z-ID: z1733721
 
-Date Due: January 25, 2019
 
 Purpose: This program generates random unique numbers.  Afterwards
 it selects 100 random numbers to be searched.  A linear search 
