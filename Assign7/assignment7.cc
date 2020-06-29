@@ -2,9 +2,6 @@
 CSCI 340 - Assignment 7 - Spring 2019
 
 Progammer: Kenneth Harris
-Z-ID: z1733721
-Section: 1
-Purpose:
 ************************************************************/
 #include <vector>
 #include <iomanip>
