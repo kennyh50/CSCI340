@@ -2,9 +2,7 @@
 CSCI 340 - Assignment 6 - Spring 2019
 
 Progammer: Kenneth Harris
-Z-ID: z1733721
-Section: 1
-Date Due: March 24, 2019
+
 Purpose: Implement functions of a binary search tree.
 ************************************************************/
 
