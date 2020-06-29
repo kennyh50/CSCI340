@@ -2,9 +2,7 @@
 CSCI 340 - Assignment 2 - Spring 2019
 
 Progammer: Kenneth Harris
-Z-ID: z1733721
-Section: 1
-Date Due: February 6, 2019
+
 Purpose: The purpose of the application is to show the difference
 between the linear search and binary sort when searching throught
 unsorted and sorted data.
